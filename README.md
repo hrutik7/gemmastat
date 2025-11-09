@@ -105,11 +105,7 @@ data-analytics-backend/
 └── ...
 ```
 
-## Contributing
 
-This is a proprietary software project. External contributions are not accepted at this time. All development is handled internally by the authorized development team.
-
-If you find a bug or have a suggestion, please contact the development team directly. Do not fork or modify the code, as this would violate the license terms.
 
 ## This project bnuild in AiBoomi startup weekend
 

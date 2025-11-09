@@ -10,16 +10,19 @@ email : string@string.com
 
 password : string
 
+*note : if dummy credentials does not work just click twice first time its facing issue sometimes .
+
+
 # GemmaStat
 
-GemmaStat is a sophisticated data analytics platform that combines PostgreSQL database integration with AI-powered analysis capabilities. It provides intuitive data visualization, statistical analysis, and interactive exploration features.
+GemmaStat is a sophisticated data analytics platform that combines PostgreSQL database and excel  integration with AI-powered analysis capabilities. It provides intuitive data visualization, statistical analysis, and interactive exploration features.
 
 
 ## Tech Stack
 
-- **Frontend**: React, Tailwind CSS, Framer Motion
+- **Frontend**: React, Tailwind CSS, Framer Motion 
 - **Backend**: FastAPI, SQLAlchemy, PostgreSQL
-- **AI/ML**: Advanced natural language processing
+- **AI/ML**: llama-3.3-70b
 - **Authentication**: JWT-based auth system
 
 ## Getting Started
